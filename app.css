@@ -1,0 +1,17 @@
+* {
+  background: url(../order-summary-component-main/images/pattern-background-desktop.svg);
+}
+
+body {
+  width 60%
+  margin: 0 auto;
+  /* text-align: center;
+  margin: 20%;
+  border: 2px solid black;
+  width: 500px;
+  border-radius: 5%;
+  align-items: center; */
+}
+img {
+  width 100%
+}
